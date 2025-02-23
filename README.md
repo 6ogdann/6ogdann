@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying at the **Faculty of Electronic Engineering, University of Niš**
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **Bootstrap, Java**
 
 - 📫 How to reach me **bogdan.rad167@gmail.com**
 
