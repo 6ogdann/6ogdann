@@ -17,5 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/bogdan-radojičić-707627353/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bogdan-radoji%c4%8di%c4%87-707627353/" height="30" width="40" /></a>
 <a href="https://instagram.com/6ogdanr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="6ogdanr" height="30" width="40" /></a>
 </p>
