@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently studying at the **Faculty of Electronic Engineering, University of Niš**
 
-- 🌱 I’m currently learning **Bootstrap, Java**
+- 🌱 I’m currently learning **Bootstrap, Angular**
+
+- 📅 I'm planning to learn **React**
 
 - 📫 How to reach me **bogdan.rad167@gmail.com**
 
