@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying at the **Faculty of Electronic Engineering, University of Niš**
 
-- 🌱 I’m currently learning **Bootstrap, Angular**
+- 🌱 I’m currently learning **TypeScript, Bootstrap, Angular**
 
 - 📅 I'm planning to learn **React**
 
