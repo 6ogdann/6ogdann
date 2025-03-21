@@ -15,7 +15,8 @@
 
 <img src="https://github.com/user-attachments/assets/8705f6db-d9bf-48be-be23-d8816e1b1c57" width="500" />
 <img src="https://github.com/user-attachments/assets/9550233f-805f-4d3f-9532-b3f18fc35e53" width="500" height="350" />
-
+<img src="![Capture](https://github.com/user-attachments/assets/e1b9e34a-fe2d-4602-bfc0-94ef714b2235)
+" width="500" height="350" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
